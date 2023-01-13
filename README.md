@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" >
-  ![](https://komarev.com/ghpvc/?username=sverreholmbakken&color=ffa600)
+  <img src="https://komarev.com/ghpvc/?username=sverreholmbakken&color=ffa600 alt="https://github.com/sverreholmbakken" />
 </p>
   
 <!--
