@@ -6,8 +6,10 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=sverreholmbakken&color=ffa600)
-
+<p align=center>
+  ![](https://komarev.com/ghpvc/?username=sverreholmbakken&color=ffa600)
+</p>
+  
 <!--
 **SverreHolmbakken/SverreHolmbakken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
