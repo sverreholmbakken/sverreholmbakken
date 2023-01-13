@@ -2,7 +2,7 @@
 
 <p align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
-    <img width=420 height=165 src="https://github-readme-stats-fork-akd2.vercel.app/api?username=sverreholmbakken&bg_color=0000&text_color=fff&title_color=ffb121f1&icon_color=ffb121f1&show_icons=true&border_color=fff&border_radius=12" />
+    <img width=420 height=165 src="https://github-readme-stats-fork-akd2.vercel.app/api?username=sverreholmbakken&bg_color=0000&text_color=000&title_color=ffb121f1&icon_color=ffb121f1&show_icons=true&border_color=000&border_radius=12" />
   </a>
 </p>
 
