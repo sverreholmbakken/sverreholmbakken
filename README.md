@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align=center>
+<p align="center" >
   ![](https://komarev.com/ghpvc/?username=sverreholmbakken&color=ffa600)
 </p>
   
