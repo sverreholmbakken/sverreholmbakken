@@ -10,6 +10,19 @@
   <img src="https://komarev.com/ghpvc/?username=sverreholmbakken&color=ffa600" "alt="https://github.com/sverreholmbakken" />
 </p>
   
+## Languages and Tools
+
+<img src="/assets/icons/css-icon.svg" alt="">
+<img src="/assets/icons/html-icon.svg" alt="">
+<img src="/assets/icons/js-icon.svg" alt="">
+<img src="/assets/icons/vue-icon.svg" alt="">
+<img src="/assets/icons/vscode-icon.svg" alt="">
+<img src="/assets/icons/github-icon.svg" alt="">
+<img src="/assets/icons/git-icon.svg" alt="">
+<img src="/assets/icons/figma-icon.svg" alt="">
+<img src="/assets/icons/illustrator-icon.svg" alt="">
+
+
 <!--
 **SverreHolmbakken/SverreHolmbakken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
