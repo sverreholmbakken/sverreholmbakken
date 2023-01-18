@@ -12,15 +12,15 @@
   
 ## Languages and Tools
 
-<img src="/assets/icons/css-icon.svg" alt="">
-<img src="/assets/icons/html-icon.svg" alt="">
-<img src="/assets/icons/js-icon.svg" alt="">
-<img src="/assets/icons/vue-icon.svg" alt="">
-<img src="/assets/icons/vscode-icon.svg" alt="">
-<img src="/assets/icons/github-icon.svg" alt="">
-<img src="/assets/icons/git-icon.svg" alt="">
-<img src="/assets/icons/figma-icon.svg" alt="">
-<img src="/assets/icons/illustrator-icon.svg" alt="">
+<img height=64px src="/assets/icons/css-icon.svg" alt="">
+<img height=64px src="/assets/icons/html-icon.svg" alt="">
+<img height=64px src="/assets/icons/js-icon.svg" alt="">
+<img height=64px src="/assets/icons/vue-icon.svg" alt="">
+<img height=64px src="/assets/icons/vscode-icon.svg" alt="">
+<img height=64px src="/assets/icons/github-icon.svg" alt="">
+<img height=64px src="/assets/icons/git-icon.svg" alt="">
+<img height=64px src="/assets/icons/figma-icon.svg" alt="">
+<img height=64px src="/assets/icons/illustrator-icon.svg" alt="">
 
 
 <!--
