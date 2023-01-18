@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=sverreholmbakken&color=ffa600" "alt="https://github.com/sverreholmbakken" />
 </p>
   
-## Languages and Tools
+##### Languages and Tools
 
 <div display=flex>
 	<img height=64px src="/assets/icons/css-icon.svg" alt="">
