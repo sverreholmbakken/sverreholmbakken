@@ -12,15 +12,17 @@
 #### Languages and Tools
 
 <div display=flex>
-	<img height=64px src="/assets/icons/css-icon.svg" alt="">
-	<img height=64px src="/assets/icons/html-icon.svg" alt="">
-	<img height=64px src="/assets/icons/js-icon.svg" alt="">
-	<img height=64px src="/assets/icons/vue-icon.svg" alt="">
-	<img height=64px src="/assets/icons/vscode-icon.svg" alt="">
-	<img height=64px src="/assets/icons/github-icon.svg" alt="">
-	<img height=64px src="/assets/icons/git-icon.svg" alt="">
-	<img height=64px src="/assets/icons/figma-icon.svg" alt="">
-	<img height=64px src="/assets/icons/illustrator-icon.svg" alt="">
+	<img height=64px src="/assets/icons/css-icon.svg" alt="CSS Icon">
+	<img height=64px src="/assets/icons/html-icon.svg" alt="HTML Icon">
+	<img height=64px src="/assets/icons/js-icon.svg" alt="JavaScript Icon">
+	<img height=64px src="/assets/icons/vue-icon.svg" alt="Vue Icon">
+	<img height=64px src="/assets/icons/vscode-icon.svg" alt="Visual Studio Code Icon">
+	<img height=64px src="/assets/icons/github-icon.svg" alt="GitHub Icon">
+	<img height=64px src="/assets/icons/postman-icon.svg" alt="Postman Icon">
+	<img height=64px src="/assets/icons/sanity-icon.svg" alt="Sanity Icon">
+	<img height=64px src="/assets/icons/git-icon.svg" alt="Git Icon">
+	<img height=64px src="/assets/icons/figma-icon.svg" alt="Figma Icon">
+	<img height=64px src="/assets/icons/illustrator-icon.svg" alt="Adobe Illustrator Icon">
 </div>
 
 
